@@ -1,4 +1,5 @@
 CODING:
+
 import json
 
 def generate_array():
